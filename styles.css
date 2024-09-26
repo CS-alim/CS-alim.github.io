@@ -19,36 +19,29 @@ h2 heading
 	text-align:center;
 
 }
-h2 skills
-{
-	color:aquamarine;
-	text-align:center;
-
-}
-h2 highlighted
-{
-	color:bisque;
-	text-align:center;
-}
-h2 contact
-{
-	color:blanchedalmond;
-	text-align:center;
-
-}
 p{
 	font-size: 15px;
 	text-align:center;
 	font-family: 'IBM plex sans', sans-serif;
+	color:#D6D6D6;
+}
+h3{
+	text-align:center;
+	color:#D6D6D6;
+	font-size: 20px;
 }
 
 /* Styling for images on home page */
 .current-positions{
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: space-between;
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 3%;
     font-family: 'Caveat', sans-serif;
+	width:100px;
+	top:100px;
+	right:100px;
+
 }
