@@ -36,12 +36,12 @@ h3{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-left: 20%;
+    /*.current-positions: 20%;
     margin-right: 20%;
-    margin-top: 3%;
+    margin-top: 3%;*/
     font-family: 'Caveat', sans-serif;
-	width:100px;
-	top:100px;
-	right:100px;
+	width:10px;
+	top:10px;
+	right:10px;
 
 }
