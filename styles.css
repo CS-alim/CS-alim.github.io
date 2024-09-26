@@ -35,16 +35,13 @@ h3{
 
 
 .image-container{
-	display: flex;
-    align-items: center;
-    justify-content: center;
 	width:100%;
+	text-align: center;
 }
 
 .current-positions{
-   /* margin-right: 20%;
-    margin-top: 3%;
-    font-family: 'Caveat', sans-serif;*/
+	display:block;
+	margin:0 auto;
 	max-width:40%;
 	height:auto;
 
