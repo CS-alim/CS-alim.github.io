@@ -32,10 +32,17 @@ h3{
 }
 
 /* Styling for images on home page */
+.project{
+	display:flex;
+	flex-direction:center;
+	text-align:center;
+}
+
 .image-container{
 	display: flex;
     align-items: center;
     justify-content: center;
+	width:100%;
 }
 
 .current-positions{
