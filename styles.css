@@ -32,11 +32,7 @@ h3{
 }
 
 /* Styling for images on home page */
-.project{
-	display:flex;
-	flex-direction:center;
-	text-align:center;
-}
+
 
 .image-container{
 	display: flex;
