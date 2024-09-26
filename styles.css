@@ -33,6 +33,11 @@ h3{
 
 /* Styling for images on home page */
 
+.projects {
+    display: flex;
+    justify-content: center; /* Centers the content inside */
+    width: 100%; /* Ensures it takes up the full width of the page */
+}
 
 .image-container{
 	display: flex;
