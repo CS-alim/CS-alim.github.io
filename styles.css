@@ -50,11 +50,15 @@ becuase whenever I tried it just was center to the left side of the website. I h
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 
 .project {
-width: 30%;
-margin: 10px;
-padding: 20px 10px;
-background: white; /* pick a color */
-border-radius: 25%;
+	display:block; /*makes the image behave as a block object*/
+	margin:0 auto; /*Center the image */
+	max-width:40%;
+	height:auto;
+	width: 30%;
+	margin: 10px;
+	padding: 20px 10px;
+	background: white; /* pick a color */
+	border-radius: 25%;
 }
 
 
