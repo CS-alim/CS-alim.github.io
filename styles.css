@@ -50,6 +50,7 @@ becuase whenever I tried it just was center to the left side of the website. I h
 .projects { 
 	display:flex; 
 	flex-wrap:wrap; 
+	text-align: center;
 } 
 
 .project {
