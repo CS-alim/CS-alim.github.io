@@ -54,7 +54,7 @@ becuase whenever I tried it just was center to the left side of the website. I h
 } 
 
 .project {
-	width: 0%;
+	width: 10%;
 	margin: 10px;
 	padding: 20px 10px;
 	background: rgb(190, 198, 213); /* pick a color */
