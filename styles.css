@@ -57,7 +57,7 @@ becuase whenever I tried it just was center to the left side of the website. I h
 	width: 30%;
 	margin: 10px;
 	padding: 10px 10px;
-	background: white; /* pick a color */
+	background: rgb(218, 42, 42); /* pick a color */
 	border-radius: 25%;
 	text-align: center;
 }
