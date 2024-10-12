@@ -60,14 +60,7 @@ becuase whenever I tried it just was center to the left side of the website. I h
 	border-radius: 25%;
 }
 
-.project img{
-	width: 300px;
-	height: 300px;
-	margin: 10px;
-	border: 2px solid rgba(161, 190, 220, 0.685); 
-	display: block;
-	margin: auto;
-}
+
 
 a { /* change the appearance of ALL links */
 	text-decoration: none;
