@@ -55,11 +55,11 @@ becuase whenever I tried it just was center to the left side of the website. I h
 
 .project {
 	width: 30%;
-	margin: 20px;
-	padding: 20px 10px;
+	margin: 14px;
+	padding: 15px 10px;
 	background: rgb(190, 198, 213); /* pick a color */
 	border-radius: 10%;
-	text-align: center;
+	display:center;
 }
 
 
