@@ -55,8 +55,8 @@ becuase whenever I tried it just was center to the left side of the website. I h
 
 .project {
 	width: 30%;
-	margin: 0px;
-	padding: 10px 10px;
+	margin: 15px;
+	padding: 0px 10px;
 	background: rgb(190, 198, 213); /* pick a color */
 	border-radius: 25%;
 	text-align: center;
