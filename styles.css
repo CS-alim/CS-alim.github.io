@@ -59,6 +59,7 @@ becuase whenever I tried it just was center to the left side of the website. I h
 	padding: 20px 10px;
 	background: white; /* pick a color */
 	border-radius: 25%;
+	text-align: center;
 }
 
 
