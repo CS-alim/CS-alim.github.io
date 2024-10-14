@@ -23,8 +23,14 @@ p{
 	font-size: 15px;
 	text-align:center;
 	font-family: 'IBM plex sans', sans-serif;
-	color:#191919;
+	color:#e6e6e6;
 }
+ul {
+	font-size: 13px;
+	text-align:center;
+	font-family: 'IBM plex sans', sans-serif;
+	color:#e6e6e6;
+  }
 h3{
 	text-align:center;
 	color:#191919;
