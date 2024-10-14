@@ -57,11 +57,17 @@ becuase whenever I tried it just was center to the left side of the website. I h
 	width: 30%;
 	margin: 14px;
 	padding: 15px 10px;
-	background: rgb(122, 142, 179); /* pick a color */
+	background: rgb(100, 93, 81); /* pick a color */
 	border-radius: 10%;
 }
 
-
+.skills {
+	width: 30%;
+	margin: 14px;
+	padding: 15px 10px;
+	background: rgb(151, 179, 138); /* pick a color */
+	border-radius: 10%;
+}
 
 a { /* change the appearance of ALL links */
 	text-decoration: none;
