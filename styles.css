@@ -1,31 +1,31 @@
 body {
-	background-color: #2C2B30;
+	background-color: #fff9e6;
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-	color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
 	text-align: center;
 	font-style: bold
 }
 h2 
 {
-	color:rgb(255, 255, 255);
+	color:rgb(0, 0, 0);
 	font-style: bold
 }
 h2 heading
 {
-	color:#D6D6D6;
+	color:#000000;
 
 }
 p{
 	font-size: 20px;
 	font-family: 'IBM plex sans', sans-serif;
-	color:#e6e6e6;
+	color:#000000;
 }
 ul {
 	font-size: 17px;
 	font-family: 'IBM plex sans', sans-serif;
-	color:#e6e6e6;
+	color:#000000;
   }
 h3{
 	color:#191919;
@@ -57,7 +57,7 @@ becuase whenever I tried it just was center to the left side of the website. I h
 	width: 30%;
 	margin: 14px;
 	padding: 15px 10px;
-	background: rgb(190, 198, 213); /* pick a color */
+	background: rgb(122, 142, 179); /* pick a color */
 	border-radius: 10%;
 }
 
