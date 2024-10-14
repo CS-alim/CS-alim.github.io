@@ -62,11 +62,11 @@ becuase whenever I tried it just was center to the left side of the website. I h
 }
 
 .skill {
-	width: 30%;
+	width: 90%;
 	margin: 14px;
-	padding: 15px 100px;
+	padding: 15px 10px;
 	background: rgb(151, 179, 138); /* pick a color */
-	border-radius: 50%;
+	border-radius: 20%;
 }
 
 a { /* change the appearance of ALL links */
