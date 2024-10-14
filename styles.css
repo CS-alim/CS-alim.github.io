@@ -10,29 +10,24 @@ h1 {
 h2 
 {
 	color:rgb(255, 255, 255);
-	text-align:center;
 	font-style: bold
 }
 h2 heading
 {
 	color:#D6D6D6;
-	text-align:center;
 
 }
 p{
 	font-size: 15px;
-	text-align:center;
 	font-family: 'IBM plex sans', sans-serif;
 	color:#e6e6e6;
 }
 ul {
 	font-size: 13px;
-	text-align:center;
 	font-family: 'IBM plex sans', sans-serif;
 	color:#e6e6e6;
   }
 h3{
-	text-align:center;
 	color:#191919;
 	font-size: 20px;
 }
@@ -56,7 +51,6 @@ becuase whenever I tried it just was center to the left side of the website. I h
 .projects { 
 	display:flex; 
 	flex-wrap:wrap; 
-	text-align: center;
 } 
 
 .project {
@@ -65,7 +59,6 @@ becuase whenever I tried it just was center to the left side of the website. I h
 	padding: 15px 10px;
 	background: rgb(190, 198, 213); /* pick a color */
 	border-radius: 10%;
-	display:center;
 }
 
 
