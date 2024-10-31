@@ -83,3 +83,22 @@ a { /* change the appearance of ALL links */
 	margin: 15px;
 }
 
+.about{
+	display:flex;
+	flex-wrap:wrap;
+	margin-right: 100px;
+	margin-left: 100px;
+	justify-content: center;
+}
+.about p {
+	width:80%;
+	/*text-align: center; */
+	margin: auto;
+	line-height: 125%;
+}
+.about img {
+	width: 150px;
+	height: 200px;
+	border-radius: 25%;
+	border: 2px solid #2C3E50;
+}
