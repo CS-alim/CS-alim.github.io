@@ -53,7 +53,7 @@ becuase whenever I tried it just was center to the left side of the website. I h
 }
 .current-positionsresume{
 	display:block; /*makes the image behave as a block object*/
-	margin:0 auto; /*Center the image */
+	/*margin:0 auto; /*Center the image */
 	max-width:20%;
 	height:auto;
 }
