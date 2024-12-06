@@ -53,7 +53,7 @@ h3{
 	display:block; /*makes the image behave as a block object*/
 	margin:0 auto; /*Center the image */
 	max-height:20%;
-	max-width:auto;
+	width:auto;
 }
 /* I did use chat gpt for the display blokc and margin 0 but only after I tried everything I knew to center the image
 becuase whenever I tried it just was center to the left side of the website. I hope this was okay.*/
