@@ -130,30 +130,30 @@ a { /* change the appearance of ALL links */
 }
 
 .contact {
-    display: flex; /* Enables flexbox layout */
-    justify-content: space-evenly; /* Distributes items evenly across the width */
-    align-items: center; /* Aligns items vertically */
-    margin: 20px auto; /* Centers the section horizontally */
-    padding: 10px 0; /* Adds vertical spacing inside the section */
-    width: 80%; /* Adjusts the container width */
+    display: flex; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    margin: 20px auto; 
+    padding: 10px 0; 
+    width: 80%; 
 }
 
 .contact ul {
-    display: flex; /* Makes the list items horizontal */
-    list-style-type: none; /* Removes bullet points */
-    padding: 0; /* Removes default padding */
-    margin: 0; /* Removes default margin */
-    gap: 20px; /* Adds spacing between items */
+    display: flex; 
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+    gap: 20px; 
 }
 
 .contact li {
-    margin: 0 30px; /* Adds horizontal margin to each item */
-    white-space: nowrap; /* Prevents text from wrapping */
-    font-size: 18px; /* Adjusts text size */
+    margin: 0 30px; 
+    white-space: nowrap; 
+    font-size: 18px; 
 }
 
 .contact a {
-    text-decoration: none; /* Removes underline from links */
-    color: purple; /* Sets link color */
-    font-weight: bold; /* Makes links bold */
+    text-decoration: none; 
+    color: purple; 
+    font-weight: bold; 
 }
