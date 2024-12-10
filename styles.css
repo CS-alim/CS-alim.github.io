@@ -113,7 +113,7 @@ a { /* change the appearance of ALL links */
 	display:flex;
 	flex-wrap:wrap;
 	margin-right: 100px;
-	margin-left: 100px;
+	margin-left: 75px;
 	justify-content: center;
 }
 .about p {
@@ -123,8 +123,9 @@ a { /* change the appearance of ALL links */
 	line-height: 125%;
 }
 .about img {
-	width: 150px;
-	height: 200px;
+	width: 180px;
+	height: 225px;
+	object-fit: cover;
 	border-radius: 25%;
 	border: 2px solid #2C3E50;
 }
